@@ -1,0 +1,74 @@
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+
+.mainPost {
+    background-color: white;
+    width: 40%;
+    margin:auto;
+    margin-top: 100px ;
+}
+
+.PostTitle {
+    display: flex;
+    height: 50px;
+}
+
+.titles {
+    width: 80%;
+}
+
+.htmlB, .rigo {
+    width: 100%;
+}
+
+.htmlB {
+    padding-top: 8px;
+}
+
+.rigo {
+    font-size: 15px;
+}
+
+.PostTitle button {
+    margin-right: auto;
+    background-color: white;
+    border: none;
+    
+}
+
+.htmlSymbol {
+    margin: auto;
+}
+
+
+.buttons {
+    display: flex;
+    width: 100%;
+}
+
+.buttons button {
+    background-color: white;
+    border: none;
+    margin-top: 5px;
+}
+
+#bookMark {
+    text-align: right;
+    width: 75%;
+}
+
+.postInteractions {
+    padding: 10px;
+}
+
+.description {    margin: auto;
+    padding: 12px;
+}
+
+img {
+    width: 100%;
+}
